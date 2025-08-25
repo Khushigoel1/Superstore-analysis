@@ -10,4 +10,4 @@ It includes visualizations such as:
 1. Install requirements: 'pip install pandas matplotlib'
 2. Run the Python script:  
    ```bash
-   python analysis.py
+   python sales.py
